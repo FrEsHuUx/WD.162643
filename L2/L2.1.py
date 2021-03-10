@@ -7,7 +7,7 @@ print(lista)
 
 lista.insert(3, 6)
 print(lista)
-lista.insert(15,5)
+lista.insert(15, 5)
 
 lista.pop()
 print(lista)
